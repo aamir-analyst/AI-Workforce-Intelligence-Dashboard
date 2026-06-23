@@ -15,7 +15,6 @@ This project analyzes the impact of Artificial Intelligence on jobs and workforc
 - Pandas
 - Matplotlib
 - Scikit-Learn
-- Power BI
 - Git & GitHub
 
 ## Key Insights
