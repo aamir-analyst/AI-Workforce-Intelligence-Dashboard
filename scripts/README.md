@@ -93,6 +93,23 @@ AI-Job-Market-Dashboard
 - Advanced Machine Learning Models
 - Real-time Job Market Data Integration
 
+
+
+## Visualizations
+
+
+### Top Job Roles
+
+![Top Jobs](screenshots/top_jobs.png)
+
+### Salary vs AI Risk
+
+![Salary vs AI Risk](screenshots/salary_vs_ai_risk.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
+
 ## Author
 
 Aamir 
